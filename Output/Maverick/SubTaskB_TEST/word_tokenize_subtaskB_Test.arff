@@ -1,0 +1,244 @@
+@relation Test
+@attribute word_tokenize string
+@attribute subtask_b {UNT,TIN}
+@data
+'# whoisq # wherestheserv # dumpnik # declasfisa democrat support antifa muslim brotherhood isi pedophilia child traffick taxpay fund abort elect fraud sedit treason # lockthemallup # wwg # qanon ',TIN
+'# nopasaran uniti demo oppos right # london # antifa # oct enough enough ',TIN
+'fuck time ',TIN
+'feel kiss behind humili later ',TIN
+'nigga ware hit ',UNT
+'# stopkavanaugh liar rest # gop ',TIN
+'delauro polic lineup identifi ladi pick everytim proof either conn voter incompet vote part vast voter fraud conspiraci vote woman gross ',TIN
+'famili friend tell shit right back ',TIN
+'# christineblaseyford # kavanaugh # liber everi time # confirmjudgekavanaugh ',TIN
+'# arianaasesina seriou holi shit pleas fuck asshol blame someon death enough today fault none overdos die stop want someon blame fucker ',TIN
+'hide ugli person worst ',TIN
+'bitch ',UNT
+'shock learn human traffick gun probabl illeg need control worri actual crime black gun wors ',TIN
+'# conserv clown ',TIN
+'voic head transfer money credit card bullshit bought ',UNT
+'# kid beat # parapleg # trump # boy # left teach # children hate violenc # school # teacher # democrat # liber # walkaway # mom # mother # nea # teachthemyoung # christian # cathol # jew # evangel # famili # blackwomen # blacktwitt # black # news # media # disabl # maga ',TIN
+'get bitch ',TIN
+'# antifa note protest civil social commun never inher evil unsustain ',TIN
+'real happen peru year inti devalu fuck much comolet chang coin system money worthless ',TIN
+'# conservat disagr # conserv conserv debat honestli integr whatev get thru today matter fundament dishonest peopl ',TIN
+'appar commit go level use well fuck curios kill ',UNT
+'mani shoot virginia jacksonvil shooter gun maryland among poster children control good full crap ',TIN
+'# antifa bedfellow democrat socialist america # jamesokeef expos insert throughout govern attempt bring # america # trump # maga # deepstat ',TIN
+'antifa level influenc scari ',TIN
+'three account quasi anonym complet anon twitter ban quasi anon make anon account tweet insan shit drown twitter bullshit ban make even ',TIN
+'# liber pathet innoc proven guilti mean much # democrat look parti need rapist hang # kavanaughisinnoc # walkawayfromdemocrat # liber straight pitt hell ',TIN
+'million realloc fema give zero shit anyon name trump atlant ',TIN
+'# fortnitebattleroyal # xboxshar pleas cheat scum liter invis ',TIN
+'# sesamestreet # bertanderni convers unattract creator say creat charact attack ',TIN
+'# serenawilliam full pain watch listen ',TIN
+'# colinkapernaeck done noth complain time black peopl hard white liber think caus wake heck stfu colin civil right hero martyr near ',TIN
+'jeff session listen aclu antifa black live matter want chicago shoot ',TIN
+'amazon ship live christma tree door stay damn light ',TIN
+'safer kid cant mom dick ',TIN
+'# conserv govt made life hell whistleblow threaten regul thought govt promis protect whistleblow ',TIN
+'# fortnitebattleroyal # xboxshar pleas cheat scum liter invis ',TIN
+'# maga # qanon # greatawaken # inner # wwg # nowcomesthepain # walkaway # goodbyedemocrat ellison say sidelin parti ',TIN
+'# boycottnfl dead ',TIN
+'# walkawayfromalldemocrat michel year sure need advic sheriff town # maga vote color gender american ',TIN
+'# blaseyford comic liber alway want way first women need treat equal come ford testifi unfair ask question dem women equal receiv special treatment ',TIN
+'# ted alway feel appropri public behavior often unabl control # gopdysfunct ',TIN
+'stick comedi funni start polit commentari pathet ',TIN
+'# holder need impeach ',TIN
+'# believeallwomen think thing dumber happen liber probabl realiz children equal treat women pretti sure better result cultur ',TIN
+'# sierraburgessisalos phone ding ',TIN
+'# metoo racist ',TIN
+'# gop still act wimp realiz liber hate regardless sentiment either republican stupid tilt left # confirmkavanaughnow ',TIN
+'# thearcher want brilliant karat kick shit everyon ',UNT
+'# dregsofsocieti # deplor liber usual dehuman want extermin later ',TIN
+'# emmyaward rate tank expect possibl stand watch mani liber place time ',TIN
+'# gutierrez alway noth # racebait ',TIN
+'# elitist # actor # nbc # liber # dem # hollywood # emmi award toothless # nbc self promot onslaught pepper # metoo crack plan stage okay # democrat # socialist # liber # left # walkaway ',TIN
+'# drford # dearprofessorford fraud femal group paid organ # georgesoro ',TIN
+'# bluewav # dumptrump give love cooper compromis conserv trump support constantli vilifi margin group constantli attack women right make choic bodi ',TIN
+'# nightmayor cycl track easili open antifa tenni court insid crescent height abl trash nenshi communist vape shop ',TIN
+'# arunjaitleystepdown shameless histori india audac shameless lie public disgrac post ',TIN
+'# conserv hous trick crock sh # te # housingcrisi ',TIN
+'week resp done still know shit still vacat mode ',UNT
+'# coupdetat # spain # catalona # spain # fakedemocraci # cddr # shameonspain # wakeupeurop ',TIN
+'# liberalismisamentaldisord danger countri # liber show utterli hate care truth care power ',TIN
+'coran attack idiot loon wors much wors elect imagin idiot want economi along interest rate polish politician idiot ',TIN
+'awwww stink cute ',TIN
+'# benghazi # haiti # uraniumon # sethrich justic depart need doubl standard rich power mean seal murder # draintheswamp # hillaryforprison # voter # maga ',UNT
+'# jointhefight join fight american communist democrat liber taken crap edg come back openli promot destruct america # jointhefightagainstcommun ',TIN
+'state talk zionist involv metaphys masturb disinform agent take advantag peopl lesser intellect asham # zionel ',TIN
+'# khaleesi kinda watch # hiac think person pffft pathet ',TIN
+'femal shit ',TIN
+'# declassifydocu love watch liber maria squirm # outnumb ',TIN
+'# politicsinfocu look donald duck stop patron ',TIN
+'# carbontax work ton money back canadian pocket part trudeau campaign nation carbon conserv die want anoth death oblig ',TIN
+'antonia evan either traffick cremat ',TIN
+'# theview stormi trap dollar bill face poor pornstar worri democrat parti leader ',TIN
+'entertain agenc gon na ',TIN
+'# trump realli everyth trump anoth piec evid obstruct justic talk crime machin ',TIN
+'# disarmthem goe show moron antifa type good encourag dumbass right speedrock open carri practic weapon retent grab badli shot ',TIN
+'# christinebford # liberalsaredesper everi time liber racism sexual assault hard believ ',TIN
+'# cincinnatienquir step # gun control final took # massshhot damn door step # editor wake better late never ',TIN
+'bitch fuck come back ',TIN
+'# liber reach peak desper call # phillipruddock talk # turnbul convinc help # wentworthvot sept # auspol # lnp # nswpol # lnpmeme ',TIN
+'uicideboy halloween aboout sooooo fuck spooki ',UNT
+'# democrat control citi strict control law want blame # gop rich # democrat tri keep black poverti # walkaway ',TIN
+'love peopl make law tend know noth subject make hear control law peopl pass state ',TIN
+'# walkawayfromcatholic corrupt core becom giant autocrat pedophil ring ',TIN
+'# california patriot especi obama soro attempt hous seat control congress shill candid front dastardli pleas vote david valadao hous dist follow ',TIN
+'take nigga name ',TIN
+'# arrestgeorgesoro fund # domesticterrorist # antifa ',TIN
+'# conserv govt debt spite auster cut rich doubl wealth # inequ ',TIN
+'# crowderconfront continu expos bulli paper tiger conserv fight back truth fact # dontbeafraid # confrontwithtruth ',TIN
+'# biggbosstelugu mani # kaushalarmi fan ',TIN
+'knockin fuckin park ',UNT
+'okay anybodi eredivis score goal shit leagu bundesliga team competit euro competit mexico produc talent pulis long time okay mayb guy ',TIN
+'# kalyani stupid teenag total despis atroc toward aunti anupriya blame death stop listen anupriya side stori make vile accus # tujhsehairaabta # zeetvseri ',TIN
+'# kalyani stupid teenag total despis atroc toward aunti anupriya blame death stop listen anupriya side stori make vile accus # tujhsehairaabta # zeetvseri ',TIN
+'# christian # america # trump exampl liber support open border guess conserv support school shoot pleas explain make america great ',TIN
+'disingenu person senat senat hide shame despic behavior scotu hear ',TIN
+'# democrat # liber # threaten # arm # nazi talk # disarma # disconnect # militari # lifestyl # broadcast # armori # killskil # rightfuckingnow ',TIN
+'want tell hang think lmao dick tongu peopl easili suck haha kid asid aint want tongu dick look hella weird choic weird whatev ',TIN
+'# avalanch sorri love asshol know # maga ',TIN
+'alien futur ',TIN
+'# familiarwif crazi wait interest assist manag guy look good pair let live life let news collis congest ',TIN
+'# thingsdarthvaderwouldneversay white mask privileg finest alway tri keep black mask # blacklivesmatt # qanon # antifa # alexjon # infowar # starwar # maytheforcebewithy # thirdshiftzombi # podcast # radio # whitesupremaci ',TIN
+'say cool feel type speak fuck ',TIN
+'# cuckserv traitor wors fortnit player # conserv # triggerwarningradio ',TIN
+'# barbara boxer liber want rape polit tactic better hard evid word evid call hearsay note corner bathroom hand year prove wrong ',TIN
+'# constitutionday right conserv ruin constitut want # guncontrolnow one ruin constitut get upset foreign come land white want live ',TIN
+'# liberallog # kavanaugh look predatori guilti # liber danger peopl govern anyon anyth ',TIN
+'# break # greec molotov cocktail protest honour kill antifa arti ',UNT
+'# orrinhatch believ sexist clueless fart get weigh anoth woman charg suprem court nomine spout nasti shit spew year anita hill time good riddanc neanderth ',TIN
+'part think hard come gabriel lizard theme glitter bomb antifa mech pilot use superhero power corrupt log compani buff lesbian heart uniform liter love ',TIN
+'# repost theleadersmindset hola leader type readi readi follow step goal stay quiet smash shit clap damn ',UNT
+'# liber # democrat stand # walkaway ',TIN
+'# beeto demonstr lose elect # texa # maga # rkba # dvc ',TIN
+'bitch think nigga money ',TIN
+'extrem back bullshit ',UNT
+'fuck year # mytwitteranniversari ',UNT
+'# dem disgust believ women accus conserv abus crime liber accus ignor accus ',TIN
+'# christineblaseyford harass member antifa radic democrat parti fund georg soro # voteredtosaveamerica ',TIN
+'cent call budden bullshit instagram ',TIN
+'actual question peopl want angela meaner say word repeatli make eat disord sexual harass houseguest much underdog dont excus # tangela ',TIN
+'surpris start karma bitch watch ',UNT
+'alright right mother natur fuck human ',TIN
+'# hillari least # angrydemocrat # worldwarq # wwg # maga # redtsunami # americafirst # walkaway # truth ',TIN
+'# antifa recruit design # terrorist organ ',TIN
+'# hypocrit # democratshateamerica # liberalismisamentaldisord everyth liber touch turn absolut shit ',TIN
+'said media money soro shit water creat civil ',TIN
+'# texa cruz campaign send peopl solicit disguis offici look counti summon elderli resid confus notic appear skeezi ',TIN
+'shit ',UNT
+'anyon find neta behavior funni fuck ',TIN
+'# goodmorningamerica # tuesdaymotiv # thankyou # fathergod # americanpeopl begin # truth # governmentcorrupt # mediacorrupt # noredact # declassifyfisa # declassif complet # obama # hillaryclinton # lie # leaker # liber ',TIN
+'differ state inan asinin comment solidifi bring fact truth lie bullshit present singl shred credibl evid support singl thing said lie ',TIN
+'damn felt shit loud ',TIN
+'# msnbc # hardbal bingo absolut correct bring presid obama presid obama humili white hous correspond dinner guarante definit driver hate presid obama ',TIN
+'# cnnisfakenew wonder rate suck # cnnisajok # fakenew # maga ',TIN
+'album definit worth fuck wait ',UNT
+'# joescarborough vile excus journalist critic # trump refus come clean death intern offic stop talk everyon start talk involv # loriklausuti ',TIN
+'nobodi shit includ ',UNT
+'dreg societi labelingand dehuman conserv suggest conserv keep ammo gun load fascist liber left think conserv quietli intern camp slaughter street need realiti check ',TIN
+'# feinstein cant anyth truth loer liar ',TIN
+'# lifeisbutepu anytim want singl ',UNT
+'# nigeria # naija incompet leader nigeria histori atiku blast buhari championnewsng ',TIN
+'# emmi well crackhead liber democrat ',TIN
+'# divers work join group want part team # islam hate everi muslim # fail # unicorn ',TIN
+'want kick twitterfuck ',TIN
+'# faileddemfeinstein quit decad disgrac feinstein blame kavanaugh stay admit everyth truth ',TIN
+'fascism liber antifa accord meme ',TIN
+'fuck ',UNT
+'grown woman probabl year older current spread rumor rather talk nice work satan ',TIN
+'# conserv care post propaganda ',TIN
+'# idiot noth beneath fool liber # maga # kag ',TIN
+'kindest explan tone deaf hard feel kind repeatedli ',TIN
+'# amazonpet etta tricki photograph colour beauti know charg first dib treat shout attent whenev come hous kill wild rabbit hang hutch ',TIN
+'# sugardaddi retweet share meme talk dumb shit babi broke shit love rich ',UNT
+'# geoffreyowen nigga realli understand level career pursuit ',TIN
+'death metal want death metal tell hate keebler death metal ',TIN
+'# kavanaugh discipl anthoni kennedi liber unconstitut opinion trump conserv # scotu move right smart everyth idiot # tuesdaythought ',TIN
+'# america tear # wall # tcot # partisanship # trump # thewal # borderwal # liberti # civilsocieti # think # conserv # democrat # progress # liber # independ # libertarian # gop # dnc # criticalthink ',TIN
+'dickhead probabl ',TIN
+'tikal voic smef cheek ',UNT
+'caus everyon know real leader fall sack potato ',TIN
+'# boycottnik campaign must continu grow pay oversea staff hour okay staff exploit poor women world american stand ',TIN
+'# news jeff session want death listen aclu antifa black live matter # cnbc ',TIN
+'# david # miliband # davidmiliband flew away # newyork # liber # democrat flee # corbynist hatr jew ',TIN
+'anyway game suck ',TIN
+'# ibelieveblaseyford liar ugli libreal # snowflak sold cash dem iran spoke # johnkerryiranmeet ',TIN
+'# conserv repres canadian authoritarian scum # cdnpoli # onpoli ',TIN
+'# ford attorney say receiv death threat move famili safeti proof # democrat # antifa promot circu ',TIN
+'# scottgimpl ruin # thewalkingdead # feartwd hope check cash forev never anoth # amc ',TIN
+'anoth season bradi give nigga ',TIN
+'# lifeisbutepu black word nigga feel nigga ',TIN
+'# auster # tuitionfe lack hous wage fall # universalcredit unafford rent # nh crisi crap railway empti shop # brexit deal exit # windrush # grenfel short year complet fuck ',TIN
+'# thosethataretheloudest afraid justic come # bono scam # clintonfound # pedowood # haiti ',TIN
+'day radio festiv decid tell headlin come anymor thank paid fortun tonn act shit interest ',TIN
+'# tytliv trump need danger countri world good ',TIN
+'# davidhogg nobodi ',TIN
+'still realli miser unpleas even told happi divorc even born cool cool liter born hatr awesom wonder fuckup ',UNT
+'# desanti deracist choic distanc prez comment today question death puerto rico hurrican maria # whataputz ',TIN
+'lost acca first fuck fight ',UNT
+'next time control debat debat free speech tax choos irrespons choos argu respons what wrong justifi murder say never aliv right ',TIN
+'hell think ',TIN
+'# liberalismisamentaldisord # hypocrit # democratshateamerica # democratsaredanger everyth liber touch turn absolut shit ',TIN
+'nigga podcast youtub channel dedic shit get solv ',TIN
+'anytim randomli bust laugh rememb dumb shit albria said ',TIN
+'jewish peopl claim hold money sound familiar left wing libtard famili famili hate jew funni control even funnier good luck ',TIN
+'bitch ',UNT
+'# liber alway dirti trick ',TIN
+'# conserv upset # bertenerni # gay # sexualpred hooker # rapist # supremecourtjustic ',TIN
+'# antifa protest # athen year murder pavlo fyssa golden dawn voter complicit crime # killahp ',TIN
+'# conserv # garbag bag blow wind garbag ',TIN
+'# bakersfield need control sorri victim gunman hope rot hell ',TIN
+'# honoursacrificeboycottmatch hope human right rat happi hope sidhu happi hope liber happi play cricket thank soldier celebr impot funni piddli littl nation take ride ',TIN
+'# confirmkavanaugh # kavanaugh # scotu # potu # presidenttrump # americafirst # maga # kag anti # trump liber activist # ford make accus will subject question suffer consequ file fals charg # lockherup ',TIN
+'# resist traitor caught video break law # communist # social way slow # trump agenda chapter democrat socialist america forget antifa distract real resist # maga ',TIN
+'# christineblaseyford grind # kavanaugh parti almost got ta love ridicul # metoo movement swear # kavanaugh alreadi # liber anxieti attack ',TIN
+'# corybook hero american traitor treat arrest prosecut carri sentenc # kavanaughconfirm ',TIN
+'round goon bitch kiddin ',TIN
+'# moreb # barrysoetorobullshit ',TIN
+'# tytliv latino faith base woman think trump christian poster child immor hate latino ',TIN
+'# carrey # pervert ',TIN
+'nigga stupid trash dont play play bitch ',TIN
+'# nooneaskm opinion # offset keep beef # cardib know cardi slow believ everyth say meal ticket think # offset need ugli ',TIN
+'# icymi liber favorit myth obama professor destroy ',TIN
+'demonstr wholli incap carri thought logic conclus ',TIN
+'fuck disgust ',TIN
+'# liberalhypocrisi # tacobel liber illeg immigr taco bell employe habla ingl ',TIN
+'# blackinkcrewchi lili hate hate worst enemi caus anger legit feel she kid work ',TIN
+'# justiceforsoniasfath usman buzdar pleas respond sonia iqbal daughter counsellor okara whose father kill elect nawaz leagu killer say commit suicid front media justic ',TIN
+'worst potu ',TIN
+'# conserv genet abil understand # hypocrisi # ironi right wing ideolog get twist knot # onpoli # ontario # partyofyesteryear # fraudnat ',TIN
+'# oitnb worst public defend trail uner word ',UNT
+'# theview # bothamjean believ # amyguyg lie live near polic station hope pray bust hous think kill peopl color polic prey alway polic cross hair matter ',TIN
+'# antifa septemb stop fascist # amsterdam ',TIN
+'nyfw caus class getcho wack outta ',TIN
+'# greatestthingsaboutth liber unhing ',TIN
+'# conserv pray liber trooli knot watt brot socialist democrat wonder ignor parent serv inda militari learnd serv christ reel eyes conservativ close align ',TIN
+'# disarmthem # antifa pleas stupid enough open carri carri conceal anyon stupid enough consid aggress shot carri weapon shoot kill maim ',TIN
+'puerto rico destroy trump visit throw paper roll peopl month later puerto rico still wait help trump say everyth fine visit great success ',TIN
+'sick school gave someth chug nasti drink away ',TIN
+'# conserv # dumberthandogshit central point tweet ',TIN
+'# rosi make nauseou ',TIN
+'# feminazi liber # metoo count blame liber # bizarro # kag ',TIN
+'# brexit deal reach unveil special summit novemb sold better finish ',TIN
+'# crazyredhead # angri # orang # cheeto claim # presid never accept deni live lost puerto rico # monster ',TIN
+'# europaleagu song cash remain chip play card liber brexit trump take nice life better everyon ',TIN
+'phone fuck dumb ',TIN
+'# howtogetpeopleoutofyourhom tell vampir threaten ass shrug problem ',UNT
+'# kavanaugh moment # blaseyford expos fraud expect surfac liber trick poni # liberalismisamentaldisord ',TIN
+'# bcog cool confid cocki kick ',TIN
+'fuck ',TIN
+'# liberalhypocrisi # crimin # democrat # evid # ellison # liber # hypocrit keith ellison domest violenc say democrat parti believ stori ',TIN
+'# democratpartyofdomesticterrorist # fascist # antifa # feminazi # walkaway ',TIN
+'# auspol know still serious ',TIN
+'# maga tell good thing # trump done # presid dare worst presid histori ',TIN
+'# confirmkavanugh stall tactic croni recours delay # voter mad # maga ',TIN
+'beat hell dude alreadi made assumpt antifa even ignor evid make assumpt ',TIN
+'# stopetchecopar fuck florezcan babi etchecopar ',TIN
+'# antifa mental unstabl coward pretend relev ',TIN
+'brown look shit school point ',TIN
+'tast ',TIN
+'# despicabledem rifl distort push control kavanaugh confirm ',TIN
+'peopl unfollow talk merlin sorri still covinski wait psisli sequel announc witti funni tweet tatbilb drain ',UNT

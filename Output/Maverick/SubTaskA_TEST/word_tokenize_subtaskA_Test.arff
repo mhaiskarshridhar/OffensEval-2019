@@ -1,0 +1,864 @@
+@relation Test
+@attribute word_tokenize string
+@attribute subtask_a {NOT,OFF}
+@data
+'# whoisq # wherestheserv # dumpnik # declasfisa democrat support antifa muslim brotherhood isi pedophilia child traffick taxpay fund abort elect fraud sedit treason # lockthemallup # wwg # qanon ',OFF
+'# constitutionday rever conserv hate progress socialist democrat want chang ',NOT
+'# foxnew # nra # maga # potu # trump ndamend # rnc # usmc # veteran # fakereport # theswamp # dnc # liber # fakeoutrag first reduc ',NOT
+'# watch # boomer get news still parol alway make smile # wentworth final treasur ',NOT
+'# nopasaran uniti demo oppos right # london # antifa # oct enough enough ',OFF
+'fuck time ',OFF
+'# rap form use express freeli green light excus behavior act anim street violenc live elev level longev # queen ',NOT
+'feel kiss behind humili later ',OFF
+'tip enhanc audienc connect facebook # socialmedia # smm ',NOT
+'# biggbosstamil janani task go first final list ',NOT
+'# conserv parti taxat # tori # tori ',NOT
+'nord make singl move fulli awar happen chill come spine ghostli rather calm femal voic call corner room even time attempt respons ',NOT
+'# constoo place conserv ',NOT
+'# greatawaken # qanon # patriotsunit # wwg # areyouawak awak clearli check video ',NOT
+'nigga ware hit ',OFF
+'# stopkavanaugh liar rest # gop ',OFF
+'# dayspromo week septemb # day # dool coma thing sami go hatti thank finish hatti pretend marlena look kayla face priceless ',NOT
+'# biggbosstelugu includ tweet busi head star network know know biggboss team host hurt audienc emot # biggbosstelugu ',NOT
+'# dalla # policewoman kill neighbor apart went wrong offic shot apart involv shoot suspect devast said dalla polic offic add sorri famili ',NOT
+'alway smack ',NOT
+'# break week long trial linn counti juri convict gregori davi first degre murder connect carri davi homicid took place almost year ',NOT
+'# kavanaugh wild claim year grope evolv rape violent sexual event move soro base support antifa unbeiev ',NOT
+'# kznlt enjouji realli prototyp charact brand noth thing love roll horribl packag directli babi subconsci ',NOT
+'# silsilabadallterishtonka fill appreci never watch serial alway want appreci aditi underr start show worth appreci ',NOT
+'# beto # betoforsen # betoorourk # betofortx willi nelson laugh conserv upset ',NOT
+'# hiac damn matt hardi randi orton hell cell match woooo hope okay ',NOT
+'school shoot controversi want control ',NOT
+'delauro polic lineup identifi ladi pick everytim proof either conn voter incompet vote part vast voter fraud conspiraci vote woman gross ',OFF
+'coffe spit spartacu moment never film ',NOT
+'famili friend tell shit right back ',OFF
+'# christineblaseyford # kavanaugh # liber everi time # confirmjudgekavanaugh ',OFF
+'fellow democrat want well best america pure polit hikind democrat assemblyman ',NOT
+'# osho # quot listen continu give hint still small voic shout true littl silent start feel person never ',NOT
+'# yyc look hockey player age abil humboldt tribut game sunday arriv dress particip open ceremoni contact lindsay clothier interest # weplayforthem # humboldtstrong # hockeyisfamili # gonuck ',NOT
+'# conserv # brexit put # britain last send chill spine ',NOT
+'# gamer follow # twitter # twitch play # blackop # blackout pleas help support twitter twitch rememb # supportforsupport # supportallstream ',NOT
+'# quicktip find peopl alreadi work compani within industri interest know peopl send resum info messag right ',NOT
+'# liberallog # liber ',NOT
+'# arianaasesina seriou holi shit pleas fuck asshol blame someon death enough today fault none overdos die stop want someon blame fucker ',OFF
+'hide ugli person worst ',OFF
+'bitch ',OFF
+'# georgetown classmat say # left absolut nut judg kavanaugh # abc # cb # democrat # liber # women # mondaymotiv # mondaymorn # veteran # law # maga # gop # cnn # msnbc # nbc # mom # blackwomen # bet ',NOT
+'refer lollygag control kid slaughter school ',NOT
+'shock learn human traffick gun probabl illeg need control worri actual crime black gun wors ',OFF
+'# weloveseungcheol happi proud work done train seventeen along member wonder incred realli love ',NOT
+'# chequer violat democraci # standup brexit peopl must respect ',NOT
+'# session tell # chicago want # shoot # death listen # aclu # antifa # blacklivesmatt ',NOT
+'# conserv clown ',OFF
+'voic head transfer money credit card bullshit bought ',OFF
+'levi strauss never afraid unpopular stand support greater good shut manufactur america even news stori happen mayb right unpopular ',NOT
+'wed clinton alway know best ',NOT
+'# kid beat # parapleg # trump # boy # left teach # children hate violenc # school # teacher # democrat # liber # walkaway # mom # mother # nea # teachthemyoung # christian # cathol # jew # evangel # famili # blackwomen # blacktwitt # black # news # media # disabl # maga ',OFF
+'',NOT
+'# askal ador great person pleas care alway ',NOT
+'# doj employe resist look conserv licens plate home address legal detail lexisnexi give socialist antifa project verita worri govt histori made polit oppon list oppress ',NOT
+'# kelli mcparland latest floor crosser tell truth liber hear ',NOT
+'# greatawaken # qanon # patriotsunit # wwg # areyouawak awak clearli check video ',NOT
+'# boycottlevi late levi use name resourc attack right compani gave control group follow donat anoth ',NOT
+'fuck seriou ',NOT
+'get bitch ',OFF
+'pretti deep debat friend told latino trump black trump paid support said mean antifa paid domest terrorist said anti fascist said fascist kid ',NOT
+'# antifa note protest civil social commun never inher evil unsustain ',OFF
+'# gmm # roastmycat fiona week fall asleep weird place ',NOT
+'real happen peru year inti devalu fuck much comolet chang coin system money worthless ',OFF
+'# conservat disagr # conserv conserv debat honestli integr whatev get thru today matter fundament dishonest peopl ',OFF
+'# halloween sign read # creepingup behind wood wall decor # tmtinsta # cwsign ',NOT
+'# huniachiweek matter go today past day situat never perman go chang life good trust believ abl pleas read ',NOT
+'point content decid keep group talent decid hire trash mike mccoy wilk even abl defens line correctli head ',NOT
+'everyon seem lack ',NOT
+'# maga expect censorship ',NOT
+'appar commit go level use well fuck curios kill ',OFF
+'need check dentist find perfect work record child care facil check onlin kind licens profession free ',NOT
+'mani shoot virginia jacksonvil shooter gun maryland among poster children control good full crap ',OFF
+'# amnesti intern violat intern human right pass stronger # gun control ',NOT
+'well chuck schumer cousin niec someth obvious part conspiraci nixon part deep state zionist plot comedi whatev hell today conspiraci theori ',NOT
+'# godspraiseroom keep even storm rock boat submit realli know begin ',NOT
+'# spaldo godson ',NOT
+'# antifa bedfellow democrat socialist america # jamesokeef expos insert throughout govern attempt bring # america # trump # maga # deepstat ',OFF
+'# cnn ruthlessli continu # fakenew onslot honest analysi right # tcot # cnn # nra # massshoot # cnnisfakenew # conserv # fakenewsmedia # fakenew # pba # fakenewscnn ',NOT
+'# brexit baromet labour fail capitalis conserv fail pleas kantar nearli third believ govern handl brexit negot poorli ',NOT
+'antifa level influenc scari ',OFF
+'three account quasi anonym complet anon twitter ban quasi anon make anon account tweet insan shit drown twitter bullshit ban make even ',OFF
+'# maga alert biden # trump support dreg societi video ',NOT
+'cerc boyd stock sole holder stock among hedg fund track ',NOT
+'citi chicago democrat strictest control nation point # notthatbright ',NOT
+'# liber pathet innoc proven guilti mean much # democrat look parti need rapist hang # kavanaughisinnoc # walkawayfromdemocrat # liber straight pitt hell ',OFF
+'# trump mani thing entertain thank # twitter ',NOT
+'million realloc fema give zero shit anyon name trump atlant ',OFF
+'# fortnitebattleroyal # xboxshar pleas cheat scum liter invis ',OFF
+'read invent bulb failur differ wayz differ geniu # ',NOT
+'aunfett repeal control law govern peopl abl well ',NOT
+'good thing respons marin pretti sure group antifa member run fast direct help anyon alon elder senior thank salut ',NOT
+'# fordtheatr right gofundm acct person # liber mode briberi payoff realli investig gofundm outlet slush fund # comey # mccabe # strzok ',NOT
+'# christian twitter facebook silenc conserv christian next censor dark take help grow live faith aloud prayer warrior pleas help grow movement ',NOT
+'speakern fick dein polit correct ',NOT
+'# fall # fashion # trend # coat # color look # airdri # calgari # lethbridg # toronto # vancouv # princegeorg ',NOT
+'# republican wallin budget go loos pre trump follow support ',NOT
+'# gmm # roastmycat fiona week fall asleep weird place ',NOT
+'# sesamestreet # bertanderni convers unattract creator say creat charact attack ',OFF
+'# serenawilliam full pain watch listen ',OFF
+'# colinkapernaeck done noth complain time black peopl hard white liber think caus wake heck stfu colin civil right hero martyr near ',OFF
+'# danganronpav claim mastermind still believ think mastermind evid suggest evid suggest ',NOT
+'# monbebeselcaday beauti ',NOT
+'# lockhimupnow # maga # qanon best presid ',NOT
+'# goodbyenfl great player becam marxist keep nix sport leagu display support oppress narr # goodbyenik ',NOT
+'# liber # left # democrat # resist # resist # antifa # bluewav # bluewav # walkaway # maga ',NOT
+'# emailmarket # sale teach creat exclus onlin traffic economi never short lead sale ',NOT
+'jeff session listen aclu antifa black live matter want chicago shoot ',OFF
+'amazon ship live christma tree door stay damn light ',OFF
+'sweet congratul hous broken better ',NOT
+'safer kid cant mom dick ',OFF
+'speak nsfw ',NOT
+'# jameycomey silent last week know go indict # fbi # doj # strzok # page # textmessag # qanon # patriotsfight # maga ',NOT
+'# supernaturaltnt # themanwhowouldbek amaz crowley alway great togeth miss ',NOT
+'avail adopt lincoln counti roger male neuter week intak ',NOT
+'# conserv govt made life hell whistleblow threaten regul thought govt promis protect whistleblow ',OFF
+'appl live keynot # appleev ',NOT
+'# zuckerberg lie ',NOT
+'# lilduv know go work tomorrow # happyfriday # smilebitch # livingmybestlif # hittemwithdashould ',NOT
+'# antifahorst whuuuuut # antifa # maassen # seehof ',NOT
+'# notetomystalk empir trust penanc life career true natur leav stone unturn get left noth everi matter power ',NOT
+'# freeleahshaibu negoti releas someon daughter ',NOT
+'# serenawilliam serena caught cheat coach collabor think thief mind real thief umpir spot go call coupl bank robber blame guard call polic ',NOT
+'# antifa retweet stop watch ',NOT
+'notout thank follow # leicest # voteforchang # localelect # votetori # voteconserv # cutcrim # cutredtap # cuttax # cutgrass # betterserviceslowertax ',NOT
+'# thingsyoushouldneverassum someon say okay smile mayb wan na worri ',NOT
+'# repost repost love fool mistak made dark imag hold rememb beauti feel ',NOT
+'nick gehlfuss stan watch friend go stop # tvtime ',NOT
+'# seo # tip master fate onlin wise expect piti screw nobodi blame ',NOT
+'# fortnitebattleroyal # xboxshar pleas cheat scum liter invis ',OFF
+'# maga # qanon # greatawaken # inner # wwg # nowcomesthepain # walkaway # goodbyedemocrat ellison say sidelin parti ',OFF
+'# truth show build person onlin traffic economi never short suppli qualifi prospect sale ',NOT
+'control wonder control bodi suicid need control # gitmo pain come # maga # qanon # benghazi hope televis demis ',NOT
+'# antifa caus ',NOT
+'# balkan conserv unit # famili congress # moldova ',NOT
+'# boycottnfl dead ',OFF
+'# walkawayfromalldemocrat michel year sure need advic sheriff town # maga vote color gender american ',OFF
+'# constitutionday enforc # immigr law law illeg alien law citizen # trump # maga # rednationris # nodaca ',NOT
+'# blaseyford comic liber alway want way first women need treat equal come ford testifi unfair ask question dem women equal receiv special treatment ',OFF
+'control kill peopl need conceal carri ',NOT
+'# ted alway feel appropri public behavior often unabl control # gopdysfunct ',OFF
+'# followthewhiterabbit # qanon # greatawaken # spygat # walkaway qanon # qarmi # maga # googl # maga poland # fisadeclassif # dearprofessorford senat corey booker molest year surfac ',NOT
+'stick comedi funni start polit commentari pathet ',OFF
+'# holder need impeach ',OFF
+'# wearebronco littl love bronco biggest # beon ',NOT
+'# bbcnew cleverli cut # nh jame cleverli # conserv coalit health spend ',NOT
+'cute hell love look antifa protestor realli freez cold hunter need hair love redhead ',NOT
+'# believeallwomen think thing dumber happen liber probabl realiz children equal treat women pretti sure better result cultur ',OFF
+'# today import day life born find mark twain ',NOT
+'# theladybam spoken simpli best # spreadmarylov # onward ',NOT
+'# media # credenti problem pleas send tweet ',NOT
+'# alert progress conserv ontario court appeal grant stay # bill number toronto citi councillor ',NOT
+'# sierraburgessisalos phone ding ',OFF
+'# metoo racist ',OFF
+'# gop still act wimp realiz liber hate regardless sentiment either republican stupid tilt left # confirmkavanaughnow ',OFF
+'# serenawilliam first mother women tour embarrassingli entitl bulli clijster win major year babi ',NOT
+'# thearcher want brilliant karat kick shit everyon ',OFF
+'agenc hijak info agenc extremist group secretli fund antifa soro ',NOT
+'# baldwinfundrais street firm work bono control lobbi # law # tammybaldwin # fundrais ',NOT
+'# aafiasiddiqui convict # terrorist wide hail daughter # pakistan ',NOT
+'# dregsofsocieti # deplor liber usual dehuman want extermin later ',OFF
+'# aldubloveandbeyond rise life friend know fall know friend ',NOT
+'# gemini woman chang scene liabl chang cast ',NOT
+'# wce favorit girl hope awesom ',NOT
+'# emmyaward rate tank expect possibl stand watch mani liber place time ',OFF
+'cult cap cult cap # maga ',NOT
+'# eagl set workout jeremi maclin accord week though still hurt ',NOT
+'friend civil discuss total fine told face life sin critic lightli civil anymor deserv block ',NOT
+'# gutierrez alway noth # racebait ',OFF
+'# disarmthem # antifa give jack particip trophi ',NOT
+'# cognitivedissonancechalleng pain conserv proceed caution ',NOT
+'# chequer crash burn # strasbourg along # may hope cling power support eb away parti # parliament countri time load webley ',NOT
+'# john fund kavanaugh ford controversi even honest liber upset ',NOT
+'# elitist # actor # nbc # liber # dem # hollywood # emmi award toothless # nbc self promot onslaught pepper # metoo crack plan stage okay # democrat # socialist # liber # left # walkaway ',OFF
+'kellerman know thing averag box bradi hater rodger mayb better thrower marino better bradi look playoff record ',NOT
+'# drford # dearprofessorford fraud femal group paid organ # georgesoro ',OFF
+'# osaka say crowd noisi realli go focu great champ confus score went ',NOT
+'# bluewav # dumptrump give love cooper compromis conserv trump support constantli vilifi margin group constantli attack women right make choic bodi ',OFF
+'take season open saturday highlight ',NOT
+'ummmm fascism actual start mussolini itali antifa part anonym anonym censor antifa relat anonym anti censorship ',NOT
+'# nightmayor cycl track easili open antifa tenni court insid crescent height abl trash nenshi communist vape shop ',OFF
+'# mplspotlight stefani newest adult servic librarian put hour clean collect favorit find book uniqu home sure # monrolib ',NOT
+'# arunjaitleystepdown shameless histori india audac shameless lie public disgrac post ',OFF
+'# canada liber govern reject recommend polit parti compli # privaci law # facebook # cambridgeanalytica scandal ',NOT
+'marri pleas # roguebot ',NOT
+'# conserv hous trick crock sh # te # housingcrisi ',OFF
+'week resp done still know shit still vacat mode ',OFF
+'jesu reject come homeward bound toward heaven kingdom open door ',NOT
+'# nickelodeon # kallysmashup angel heart forc charact goddess light shine much star # maiareficco ',NOT
+'# coupdetat # spain # catalona # spain # fakedemocraci # cddr # shameonspain # wakeupeurop ',OFF
+'# analysi support peopl parti canada like bristl call liber belief classic definit ',NOT
+'# barbiedreamsvideo geniu interview thank love much love barbi beauti brain ',NOT
+'# justiceforsoniasfath help sonia pain offici respond get troubl pmln goon help thank ',NOT
+'eric holder talk control pull time go keep repost everytim get taken ',NOT
+'# conserv today ',NOT
+'# liber # democrat first step food prepar ',NOT
+'# liberalismisamentaldisord danger countri # liber show utterli hate care truth care power ',OFF
+'# florencehurrican hour sustain lethal cyclon forc hour impact # northcarolina # southcarolina # georgia stupid away area # florenc # nyc # miami # houston # chicago ',NOT
+'# antifa # uklabour # fbpe # sutr attent # forbritain fight ',NOT
+'expert block anyon challeng view want view heard obsess love ',NOT
+'# antifa demo memori # killahp # greec ',NOT
+'coran attack idiot loon wors much wors elect imagin idiot want economi along interest rate polish politician idiot ',OFF
+'awwww stink cute ',OFF
+'# benghazi # haiti # uraniumon # sethrich justic depart need doubl standard rich power mean seal murder # draintheswamp # hillaryforprison # voter # maga ',OFF
+'# black eye pea tackl control social justic song love singl highlight group first album eight year master ',NOT
+'# censorship awak conserv censor # walkaway ',NOT
+'didnt beat said look delici clean bruis knuckl nobodi talk woman except pull want kiss make feel better teas ',NOT
+'# jointhefight join fight american communist democrat liber taken crap edg come back openli promot destruct america # jointhefightagainstcommun ',OFF
+'# art # artistsontwitt # soul # goodbusi # entrepreneur # success # excel # womaninbusi # mindblow # quotestolivebi gentl child univers less tree star right ehrmann ',NOT
+'# icymi welcom anna grey barbour women volleybal team anna terri sanford high school graduat studi dental hygien colleg proud make trojan anna good luck season # blackngold # trojan ',NOT
+'# biggbosstamil # biggbosstamil # biggboss tamil intha # aishwarya kuda manichirlam intha # yashika biggest reason everi fight hous foolish peopl support task ',NOT
+'# totallyblog want know keep focu blog easier said done start look stop quit # ukblogg # fblogger # bblogger # lblogger ',NOT
+'state talk zionist involv metaphys masturb disinform agent take advantag peopl lesser intellect asham # zionel ',OFF
+'# updat project state hurrican # florenc travel coastlin entir coast possibl suffer # florenc deadli storm surg greatli increas serious rain wind south carolina surround area even possibl georgia ',NOT
+'# liber econom even know gender ',NOT
+'# khaleesi kinda watch # hiac think person pffft pathet ',OFF
+'femal shit ',OFF
+'# brexit # uklabour # labour # conserv # plaidcymru # green # polit poll ',NOT
+'# breakingnew york time ',NOT
+'# hchottestceleb round match scarlett johansson emma stone poll ',NOT
+'# sugardaddi retweet want daili canada # sugarbabyneed # sugarbabyw # findom # sugarbabi # canada ',NOT
+'# declassifydocu love watch liber maria squirm # outnumb ',OFF
+'# politicsinfocu look donald duck stop patron ',OFF
+'# naturephotographi # natur # bird # wild # wisconsin # photographi # picoftheday # pic # fridaymotiv # fridayfeel # instagram hope # amaz ',NOT
+'# carolineforb need help post audit ',NOT
+'# wcw mean great friend happi help mission anyth might need ',NOT
+'offbalanc exactli smart basic grappl might instinct antifa use basic grappl cross side collar snap step weak singl attempt ',NOT
+'# cancer hate crime actual crime victim call crime malum hate crime social engin program control peopl behavior control # changemymind ',NOT
+'# carbontax work ton money back canadian pocket part trudeau campaign nation carbon conserv die want anoth death oblig ',OFF
+'antonia evan either traffick cremat ',OFF
+'# repost thesavoyshow repost # markknight say racist draw racist pictur # serenawilliam believ ',NOT
+'worri thing teach young adult ',NOT
+'# walkaway # democratsocialist # socialist # social # resist # communist # antifa # cult # crazi # insan # mentalil # emptyhead # berniesand # venezuela trillion tax # alexandriaocasiocortez # ocasiocortez # endorsementfail # missvenezuala alexandria ocasio cortez ',NOT
+'# theview stormi trap dollar bill face poor pornstar worri democrat parti leader ',OFF
+'# proudalumnu keep great work forget great leadership time soak skill teach ',NOT
+'# wildcardwednesday # maxdrivewildcardwednesday # onairwithshin happier # maxdriv # radioenchantress ',NOT
+'deep call intervent ',NOT
+'# cnbc talk gender silicon valley talk conserv # emocrat # bia ',NOT
+'million fund competit citi nice ',NOT
+'chicom # clubgitmo ',NOT
+'# repost forget give prop naomi osaka play idol someway overshadow humbl ',NOT
+'entertain agenc gon na ',OFF
+'obvious get suspend asset anyon ',NOT
+'# trump realli everyth trump anoth piec evid obstruct justic talk crime machin ',OFF
+'# canada exclus # trudeau # liber leav meant help veteran unspent take offic ',NOT
+'show ',NOT
+'answer realist enforc control prevent tragedi without violat process hipaa ',NOT
+'# disarmthem goe show moron antifa type good encourag dumbass right speedrock open carri practic weapon retent grab badli shot ',OFF
+'# maga idea done ',NOT
+'# christinebford # liberalsaredesper everi time liber racism sexual assault hard believ ',OFF
+'summar rank game mode pictur ',NOT
+'# learn becom # better instead remain # stuck becom # bitter # clifeclearli # clifethryv # aboutthatlif # clifemacon ',NOT
+'# kamalaharri presid never # potu sadli guarante leadership role polit much # diannefeinstein realiti liber california # nancypelosi # chuckschum # cnn # msnbc ',NOT
+'levi strauss never afraid unpopular stand support greater good shut manufactur america even news stori happen mayb right unpopular ',NOT
+'# repost give word jacket # preach # saynotofuckboy # dontgiveyourmagictomuggl ',NOT
+'# emmi sooo love love dress colour design look fairi tale tender ',NOT
+'# chang rememb past administr chant chang chang carri baton noth potu make chang say better swampi liber lefti hatin hatin ',NOT
+'open letter miller ',NOT
+'# cincinnatienquir step # gun control final took # massshhot damn door step # editor wake better late never ',OFF
+'bitch fuck come back ',OFF
+'# liber reach peak desper call # phillipruddock talk # turnbul convinc help # wentworthvot sept # auspol # lnp # nswpol # lnpmeme ',OFF
+'chicago stricter control doesnt work ',NOT
+'uicideboy halloween aboout sooooo fuck spooki ',OFF
+'glad alway goe someth reckless show go come back everytim jeff best ',NOT
+'# democrat control citi strict control law want blame # gop rich # democrat tri keep black poverti # walkaway ',OFF
+'love peopl make law tend know noth subject make hear control law peopl pass state ',OFF
+'hear say ',NOT
+'penni believ intellig know think smartest canadian canadian watch twitter find anyon opinion rush hockey ',NOT
+'# sandraoh love brought parent epitom grace beauti ',NOT
+'# healingyourself connect # healingoth ',NOT
+'# christineblaseyford need testifi oath anyth claim investig claim investig come word # kavanaugh approv soon possibl full stop # maga # qanon ',NOT
+'# maga antifa websit instruct hurt multipl polic offic cross border ',NOT
+'# nationaldayofencourag # encouragementdar # encourag anoth build fact # thessalonian # scriptur # vers donat websit link call email donat # commun ',NOT
+'year bletchley park veteran help defeat nazi readi fight fascism ',NOT
+'# walkawayfromcatholic corrupt core becom giant autocrat pedophil ring ',OFF
+'# california patriot especi obama soro attempt hous seat control congress shill candid front dastardli pleas vote david valadao hous dist follow ',OFF
+'# noshadenotea commun colleg parent still pick drop need life togeth ',NOT
+'take nigga name ',OFF
+'exactli slick wood unconvent look attract shit matter ',NOT
+'# arrestgeorgesoro fund # domesticterrorist # antifa ',OFF
+'# interest gone kind background check similar # fbi background check # judgekavanaugh ',NOT
+'# conserv govt debt spite auster cut rich doubl wealth # inequ ',OFF
+'# crowderconfront continu expos bulli paper tiger conserv fight back truth fact # dontbeafraid # confrontwithtruth ',OFF
+'',NOT
+'antifa comrad miss nuanc still peopl know white nationalist specif commun use white supremacist rhetor employ give danger compani ',NOT
+'# beckylynch beauti women wrestl absolut need work done absolut beauti need giant boob fake booti simpli amaz # hiac ',NOT
+'control noth peopl control left want control want littl guy arm abl defend make harder behind barb wire fenc north korea ',NOT
+'# alert progress conserv ontario court appeal grant stay # bill number toronto citi councillor ',NOT
+'amazon murder food porn northwest cozi mysteri diann harman end ',NOT
+'# wcw # wce special week realli miss look forward soon forget love love heart heart ',NOT
+'# barbiedreamsvideo love even roman feel roman actin nicki dimelo papi papi ',NOT
+'# martina # navratilova # serenawilliam wrong alway realli like respect martina voic reason ',NOT
+'# bodyguard fetch aliv imposs think budd wors enemi sign split person uncertain today episod place ',NOT
+'# bookreview meet ronaldo second year student reindeer fli academi break speed record fli contest stumbl upon mysteri perplex thought thank # mglit ',NOT
+'# backto # onevoic swomen sbornwomen took year pension agre need pension back ',NOT
+'# main need face fact realli repres anymor play game say undecid kavanaugh know go vote confirm time dump susan collin ',NOT
+'# twitter stop right head # twitch listen amaz friend grendi play # hatofulboyfriend # voiceactor make # supportsmallstream ',NOT
+'# biggbosstelugu mani # kaushalarmi fan ',OFF
+'# conserv tell philip hammond slash tax rich corpor regul less worker environment protect deal # brexit tori # brexitshambl # smallstat ',NOT
+'# yehundinonkibaathai naina talk educ girl make respons make play sport bang girl shoe jealou face though burn ',NOT
+'daysofsoloharri glad someon tri chang world kind peopl alli stand women right donat differ caus stand control someon success still continu humbl ',NOT
+'# castingcallshow fantast first think go finalist show end love ultim vote amaz busi opportun anna ladd funni realli want hear ',NOT
+'# brexitshambl # thursdaythought # news let avoid futur # bordercontrol queue # givepeasach ',NOT
+'# democrat hear righteou democrat attack insist ellison resign accus assault heard call cori spartacu booker resign admit sexual assault stink liber ',NOT
+'# obasr band cover miss good qualiti audienc engag look link ',NOT
+'# lisaxmichaelkor sooo talent love much ',NOT
+'# hurricaneflor good sport pinhol strengthen ',NOT
+'knockin fuckin park ',OFF
+'okay anybodi eredivis score goal shit leagu bundesliga team competit euro competit mexico produc talent pulis long time okay mayb guy ',OFF
+'# kalyani stupid teenag total despis atroc toward aunti anupriya blame death stop listen anupriya side stori make vile accus # tujhsehairaabta # zeetvseri ',OFF
+'# kalyani stupid teenag total despis atroc toward aunti anupriya blame death stop listen anupriya side stori make vile accus # tujhsehairaabta # zeetvseri ',OFF
+'seem terrorist attack probabl antifa still look want strawberri market complet form ',NOT
+'# christian # america # trump exampl liber support open border guess conserv support school shoot pleas explain make america great ',OFF
+'disingenu person senat senat hide shame despic behavior scotu hear ',OFF
+'# democrat # liber # threaten # arm # nazi talk # disarma # disconnect # militari # lifestyl # broadcast # armori # killskil # rightfuckingnow ',OFF
+'want tell hang think lmao dick tongu peopl easili suck haha kid asid aint want tongu dick look hella weird choic weird whatev ',OFF
+'# parikshitsolut secur incid rare emerg fulli form flash light alert prepar test skill follow scenario ',NOT
+'# nbc # msnbc held account inflammatori remak call leftist fight ',NOT
+'proven fact control work look chicago worri other record talk sell uranium russia million russia ',NOT
+'# boycottlevistrauss levi strauss team control group simpli stand silent ',NOT
+'# analysi support peopl parti canada like bristl call liber belief classic definit pitti ',NOT
+'definit high puerto rico democrat provid proof provid name locat next hard hope mind hold breath ',NOT
+'# pickett # individu need part # team # loner within famili # bowtruckl feel # bulli # attach issu incred # agil great # valu # teacher # parent # atyp ',NOT
+'# avalanch sorri love asshol know # maga ',OFF
+'alien futur ',OFF
+'# creampuff # hollsteinforev quick remind giveaway anyon attend # clexaconlondon interest attend natasha improv workshop repli draw free ticket entri close midnight ',NOT
+'# familiarwif crazi wait interest assist manag guy look good pair let live life let news collis congest ',OFF
+'# bronco vanc joseph phillip lindsay good footbal player run back ',NOT
+'celin swittin follback erza jullian # openfolbackcelin swittin ',NOT
+'# restorehuman # antifa septemb stop fascist # amsterdam ',NOT
+'# broncon # bronco # broncosvsseahawk # broncoscountri crue excit enjoy cupcak bronco ',NOT
+'# thingsdarthvaderwouldneversay white mask privileg finest alway tri keep black mask # blacklivesmatt # qanon # antifa # alexjon # infowar # starwar # maytheforcebewithy # thirdshiftzombi # podcast # radio # whitesupremaci ',OFF
+'hair pink ',NOT
+'say cool feel type speak fuck ',OFF
+'# cuckserv traitor wors fortnit player # conserv # triggerwarningradio ',OFF
+'# barbara boxer liber want rape polit tactic better hard evid word evid call hearsay note corner bathroom hand year prove wrong ',OFF
+'control stop kid peopl get murder gun chicago control decad multipl shoot everi week ',NOT
+'# selfcareseptemb make differ ',NOT
+'# fauxprogress done # corruptdemocrat year proof ocasio cortez endors cuomo cuomo flip progress # liber # corybook # ocasiocortez ',NOT
+'# constitutionday right conserv ruin constitut want # guncontrolnow one ruin constitut get upset foreign come land white want live ',OFF
+'# coercedintox stare favorit feel effect feel vulner # forcedintox # coercedintox # femdom # findom ',NOT
+'# andrewsch want support # canadiancoalitionforfirearmsright seek weaken # guncontrol # cpc compromis canadian safeti enough vote dilut control mani live lost # conserv care # cdnpoli ',NOT
+'readi watch indakur passcott play footbal ',NOT
+'# eric stall well democrat cali worri fix state instead tri muster sympathi liar prof hunt news liber balanc give side ',NOT
+'# sukhduasamaj theprayinghand ad person surgic chang entitl chang discrimin ',NOT
+'# florenc list hurrican florenc feed # trump # maga central great summari impact blacksburg nation weather servic sever goe overnight # vawx ',NOT
+'dick ',NOT
+'# liberallog # kavanaugh look predatori guilti # liber danger peopl govern anyon anyth ',OFF
+'# ishqbaaaz join cast must shot scene jiffi go vacay noth groupbaazi # shivika focu groupbaazi consist coupl shivika scene clip mein nehi ',NOT
+'# children mix # genderstudi crap # social yeah come # mega # mbga # maga # mcga # conserv # patriot # protectchildren ',NOT
+'# lockthemallup # strzok # mccabe caught destroy evid leav # draintheswamp # drainthedeepst # maga ',NOT
+'# break # greec molotov cocktail protest honour kill antifa arti ',OFF
+'# orrinhatch believ sexist clueless fart get weigh anoth woman charg suprem court nomine spout nasti shit spew year anita hill time good riddanc neanderth ',OFF
+'# brettkavanaugh social issu justic kennedi area grow daylight conserv exampl area administr state incl ',NOT
+'# chicago # democrat parti stronghold # highli divers popul # gun control law larg # radic left establish # obama continent base live mani year think horrifi news ',NOT
+'# nowplay aris good william murphi # chronicleschristianradio # ccradioco ',NOT
+'peopl disguis good guy wear black concern bystand shot antifa vega shoot ',NOT
+'part think hard come gabriel lizard theme glitter bomb antifa mech pilot use superhero power corrupt log compani buff lesbian heart uniform liter love ',OFF
+'# saynotoshiasunnifight muslim muslim shia sunni ',NOT
+'anybodi wake tire cologn toothbrush morn ',NOT
+'# aiatraveltip alway monitor luggag airport leav luggag unattend accept unopen packag # tip # travel # explor # aia # aircraft # airport # caribbean # destin # travel # connect # traveltheworld # adventur # adventur # luggag ',NOT
+'alway good member site ',NOT
+'# repost theleadersmindset hola leader type readi readi follow step goal stay quiet smash shit clap damn ',OFF
+'antifa attack cop arrest ralli denver media blackout ',NOT
+'alway bond dani minogu target pant ',NOT
+'centuri pussycat doll feat busta rhyme ',NOT
+'# realsmart answer step # realsmart journey cours offer behalf real estat council correspond regist # realsmart cours ',NOT
+'back first time year pole vermont updat ',NOT
+'anoth bite dust ',NOT
+'# liber # democrat stand # walkaway ',OFF
+'# beeto demonstr lose elect # texa # maga # rkba # dvc ',OFF
+'bitch think nigga money ',OFF
+'extrem back bullshit ',OFF
+'# killshot easili show hail ',NOT
+'# cnn analyst dem seek anoth investig want politician tell investig # sitroom # thelead # outfront # npr # pbsnew # pbsnewshour # tcot # tlot # maga # sgp # nyc # boston # baltimor # cleveland # chicago # milwauke ',NOT
+'# democrat baldwin fundrais street firm work bono control lobbi # walkaway ',NOT
+'fuck year # mytwitteranniversari ',OFF
+'# dem disgust believ women accus conserv abus crime liber accus ignor accus ',OFF
+'leav commerci # hearfdr ',NOT
+'# crew emin front # msm fall fake issu prop # polit # hacktivist expert # tcot # emolu # conserv # emolumentsclaus # law # lawyer # mediawatch # fakenewsalert # fakenew # mediabia ',NOT
+'# authorconfess tree favorit tri lisett respond tree flower know give straight answer usual difficult suspect teas ',NOT
+'# nattyanplay aozora train sish high ',NOT
+'# christineblaseyford harass member antifa radic democrat parti fund georg soro # voteredtosaveamerica ',OFF
+'# antifa excel idea ',NOT
+'# iou project demonstr qualiti whitepap investor strongli recommend explor rate pleas # ico # crypto # tokensal ',NOT
+'# blocktwitterad twitter stop shadow ban conserv ',NOT
+'# kavanaughconfirmationhear # tuesdaythought women support # kavenaugh fill hear galleri pack full disrupt liber cant stand unison kavanaugh testifi solidar ',NOT
+'sure guy call authoritarian left includ control group left ',NOT
+'# baekhyun ',NOT
+'cent call budden bullshit instagram ',OFF
+'# potu # realdonaldtrump # gop # lpnation # thedemocrat # qanon # blacklivesmatt # antifa # isi # davo # california # foxnew # cnn # wsj # nyse # wakeupamerica # maga # mypatriotsuppli need ',NOT
+'# naomiosaka folk # usopen futur ador talent ',NOT
+'citi chicago democrat strictest control nation white supremacist run offic republican ',NOT
+'# callthevotealreadi democrat game conserv fight life game game session pleas asham allow happen pray never ',NOT
+'# maga sound fair ',NOT
+'# jiyoonfact huge beyonc want sing well sang predebut ',NOT
+'# conserv know everyth reject british peopl tori need step fail # brexit domest agenda # maymustgo # chuckchequ ',NOT
+'# muskokalak mayoralti candid terri ledger say run mayor campaign social media speak volum kind behind close door mayor plan muskoka give opinion ',NOT
+'# greatawaken # qanon # patriotsunit # wwg # areyouawak awak clearli check video ',NOT
+'million buyout easili cabl news path choos good ',NOT
+'actual question peopl want angela meaner say word repeatli make eat disord sexual harass houseguest much underdog dont excus # tangela ',OFF
+'# newvideo toy anyon ',NOT
+'# bestwaytoawomansheart wake nap ',NOT
+'surpris start karma bitch watch ',OFF
+'sure send left antifa thug ',NOT
+'# notetomystalk empir rememb thing incumb central govt india natur life ancestor parent live true natur trap natur trap time tell ',NOT
+'alright right mother natur fuck human ',OFF
+'# farticu mayb ',NOT
+'# hillari least # angrydemocrat # worldwarq # wwg # maga # redtsunami # americafirst # walkaway # truth ',OFF
+'# codetrainqueen rachel join codetrain help organ codetrain develop bootcamp train front develop current commun manag ardent advoc digit skill youth especi women keep shine rachel ',NOT
+'# moviefightsl think know ',NOT
+'# boycottlevistrauss support leftist control org ',NOT
+'# youaremyidol idol never chang taught alot continu teach thing help difficult littl thing life thank ',NOT
+'# antifa recruit design # terrorist organ ',OFF
+'# hypocrit # democratshateamerica # liberalismisamentaldisord everyth liber touch turn absolut shit ',OFF
+'# nationaldayofencourag # twitterfamili amaz ',NOT
+'# happyrmday bought pizza chocol enough money cake plan make tradit pizza birthday love one even acquaint never meet still close person thank ',NOT
+'# republican wallin budget go loos pre trump follow support ',NOT
+'# liber push # gayagenda # republican push # zionistagenda ',NOT
+'# vaquitamarina # savethevaquita less # vaquita left extinguish pleas help voic ',NOT
+'said media money soro shit water creat civil ',OFF
+'# liber dept # agricultur paid present shoot secur video # auspol # lnp # nswpol # springst # qldpol # lnpmeme # lnpwast ',NOT
+'# texa cruz campaign send peopl solicit disguis offici look counti summon elderli resid confus notic appear skeezi ',OFF
+'# success # health show best creat exclus onlin traffic economi never short qualifi prospect sale ',NOT
+'lem me guess control anyon talk canadian even know # whyme ',NOT
+'realli care marri black clueless real problem black peopl face america today ',NOT
+'shit ',OFF
+'# fakenewsmedia # enemyofthepeopl want control mind control inform stamend protect # elitist # propaganda legitim make palat engag public ',NOT
+'anyon find neta behavior funni fuck ',OFF
+'# goodmorningamerica # tuesdaymotiv # thankyou # fathergod # americanpeopl begin # truth # governmentcorrupt # mediacorrupt # noredact # declassifyfisa # declassif complet # obama # hillaryclinton # lie # leaker # liber ',OFF
+'# stopthebia # redcensorship account suspend appar promot hate speech # antifa terrorist organ activ run custom servic refus repli email care explain make sens ',NOT
+'# bepannaah bepannaah hand bepannaah top list adhiy aditya tri convinc ziddi zoya love give lot ',NOT
+'differ state inan asinin comment solidifi bring fact truth lie bullshit present singl shred credibl evid support singl thing said lie ',OFF
+'damn felt shit loud ',OFF
+'# myproteg # master # teacher excit report proud owner support product made # bravo # usopen ',NOT
+'stay drop foto jisung dong pleas ',NOT
+'year today taylor swift releas smash love stori quot tweet tell moment first heard song yearsoflovestori ',NOT
+'# msnbc # hardbal bingo absolut correct bring presid obama presid obama humili white hous correspond dinner guarante definit driver hate presid obama ',OFF
+'suppos believ kavanaugh seem heavi drinker high school perfect memori everyth mix blame victim equivoc misrepres believ # stopkavanaugh ',NOT
+'# cnnisfakenew wonder rate suck # cnnisajok # fakenew # maga ',OFF
+'# liber lie noth claim track meet # emiss target fals # auspol # lnp # nswpol # springst # qldpol # wapol # lnpmeme ',NOT
+'# chef need pan find look stock brand beka chef mauviel woll # chef # restaur ',NOT
+'# boycottthenfl particularli ',NOT
+'album definit worth fuck wait ',OFF
+'day radio festiv decid tell headlin come anymor thank paid fortun tonn act shit interest ',NOT
+'# joescarborough vile excus journalist critic # trump refus come clean death intern offic stop talk everyon start talk involv # loriklausuti ',OFF
+'fan happi spread love learn appreci support lgbtq love never fail make happi love harri style harri style best ',NOT
+'nobodi shit includ ',OFF
+'# power # lesson certain testimoni come rest come strength wick remov major vacuum life whether awar attract mockeri # septemb # rememb # day ',NOT
+'long jamul ',NOT
+'# miss imelda algier last seen sunday tall weigh pound white hair unknown imelda wear imelda diagnos alzheim diseas # westbend ',NOT
+'# myuniqueheritag irish side famili last name irish caus proud irish ',NOT
+'# travel # movi unix # fortun combin visit # salisburi sight wherev travel intern find centr vast intern conspiraci return home recal recal recal ',NOT
+'# saveshadowhunt # malecforev read mansikka latest caus awesom ',NOT
+'well spent panther douch ',NOT
+'dreg societi labelingand dehuman conserv suggest conserv keep ammo gun load fascist liber left think conserv quietli intern camp slaughter street need realiti check ',OFF
+'# sonntagsfr # deutschland hand drawn world teapot perfect addit breakfast tabl matter world ',NOT
+'themanynotthefew need countri recognis everyon societi pick rest austerit work class peopl need reli rich richer back poor dont tori carri ',NOT
+'killari stricter control work look chicago strictest control law countri seem problem shoot nearli everyday pleas explain ',NOT
+'# brexit dead state cooper conserv viabl plan keep aliv must vote carri play central role buri brexit ',NOT
+'# feinstein cant anyth truth loer liar ',OFF
+'# boycottlevistrauss levi strauss took public stanc second amend singl custom read levi anti initi ',NOT
+'# lifeisbutepu anytim want singl ',OFF
+'# wfmmc talent team prestigi project excel project promot market project # wfmmc # ico # ekolong # sripuptruzman ',NOT
+'# celebr # germani # german yeah kind expect happen across western world # securityfear # maga # mega # mbga # mcga # conserv # patriot ',NOT
+'# clinton # monsanto # bayer # bigpharma # roundup # glyphos # gmo progress demand full transpar issu matter immigr marriag control hillari wrong side ',NOT
+'sheriff wayn ivey cspoa seem well ',NOT
+'# ccot lead conserv hashtag tweet read # ccot christian conserv twitter # christian # conserv # libertarian # evangel # cathol # charismat # nondenominatin # spiritfil # tlot # tcot # hanniti # teaparti # maga # trumptrain ',NOT
+'# nigeria # naija incompet leader nigeria histori atiku blast buhari championnewsng ',OFF
+'# nowplay death cuti tourist code key ',NOT
+'# emmi well crackhead liber democrat ',OFF
+'# conserv # outrag # theyknownoth especi ',NOT
+'girl talent best friend ethan brought togeth pleas notic talent pleas ',NOT
+'temp baromet inch rain wind ',NOT
+'# conserv vote vote vote friend poll midterm # nocomplac ',NOT
+'# divers work join group want part team # islam hate everi muslim # fail # unicorn ',OFF
+'make realiz much taller reach kissss ',NOT
+'want shoot death listen aclu black live matter antifa want public safeti listen polic profession studi year jeff session ',NOT
+'want kick twitterfuck ',OFF
+'# menfesswglca dremiest dream come true ',NOT
+'# faileddemfeinstein quit decad disgrac feinstein blame kavanaugh stay admit everyth truth ',OFF
+'# cheeringthechutiyapa woman ',NOT
+'realli even seen letter sham subtl banana pool tabl cant difi throw hail mari hour foul elast ford antifa come burn hous dem go hard ',NOT
+'fascism liber antifa accord meme ',OFF
+'# ripmacmil love ',NOT
+'# creagboy run around mcdonald urgent tell kid futur ',NOT
+'# englishpashto though pakhtoon english cute pashto marra khasta bacha ',NOT
+'# jpna vasay ahm butt sohail sahab perform love movi core # pmjg # jpna humayun shaan fahad grace class pakistan cinema safe hand ',NOT
+'fuck ',OFF
+'keep go back well charlottesvil realiz good peopl peopl side antifa caus quit violenc damag peopl watch peopl statu remov ',NOT
+'# cancer rise around world ',NOT
+'grown woman probabl year older current spread rumor rather talk nice work satan ',OFF
+'someon know dress rock shoe well ',NOT
+'# antifa # philli keyston unit expos part robert melissa gau ',NOT
+'# conserv care post propaganda ',OFF
+'# idiot noth beneath fool liber # maga # kag ',OFF
+'# she # mosadi # she discern season # she wise builder # she team player # she full fire full holi spirit thank chantal inspir event thank ',NOT
+'# impeach # maxin # water tide flow way ',NOT
+'# piperthepup send love everyon might affect unwelcom # hurricaneflor week look forward tri least crust get delawar ',NOT
+'# disarmthem # antifa good luck sweetheart ',NOT
+'# agjeffsess listen aclu antifa black live matter want chicago shoot ashallnotbeinfring thank ',NOT
+'democrat give vocal minor becom socialist think think shock confus parti offici rhetor odd experi antifa thug true violenc ',NOT
+'kindest explan tone deaf hard feel kind repeatedli ',OFF
+'# amazonpet etta tricki photograph colour beauti know charg first dib treat shout attent whenev come hous kill wild rabbit hang hutch ',OFF
+'# germani happen intimid wrong # maga ',NOT
+'# sugardaddi retweet share meme talk dumb shit babi broke shit love rich ',OFF
+'rest ador ',NOT
+'# geoffreyowen nigga realli understand level career pursuit ',OFF
+'# fridaynightfun halloween event start week cours find event look forward year obvious mani ',NOT
+'death metal want death metal tell hate keebler death metal ',OFF
+'# saynotoshiasunnifight judgment ask whether shia sunni ask deed ',NOT
+'# kavanaugh discipl anthoni kennedi liber unconstitut opinion trump conserv # scotu move right smart everyth idiot # tuesdaythought ',OFF
+'# america tear # wall # tcot # partisanship # trump # thewal # borderwal # liberti # civilsocieti # think # conserv # democrat # progress # liber # independ # libertarian # gop # dnc # criticalthink ',OFF
+'make time pull time post pull repost eric holder control ',NOT
+'iphon gulp tech report josh mcconnel break featur price point appl line ',NOT
+'dickhead probabl ',OFF
+'# trump # maga # elizabethsmart captor earli releas time mental hospit unfortun nearli year get credit realli bring system much earlier ',NOT
+'# spidermanp everyth expect gameplay suit gadget pretti uniqu feel playin mixtur batman arkham unchart seri spidey beat cant wait keep play ',NOT
+'# conserv ride # voter # voteamericafirst # votedemsout # americafirst ',NOT
+'# conserv # joinukip # voteukip ',NOT
+'battl need backup celest omega ',NOT
+'# conserv valu gender equal valu think thing alway quot # bibl support dominion women mani # republican justifi # kavanaugh rape year normal male behavior ',NOT
+'world popul live # citi find solut help peopl move freeli sustain global prioriti # electricscoot role play # climateact # airqual # mobil read studi ',NOT
+'beyond famou lalisa manoban ',NOT
+'# sukhduasamaj theprayinghand saint insan renam eunuch societi respect name sukhdua samaj connect mainstream societi provid equal opportun educ employ statu third gender ',NOT
+'obviou quietli ',NOT
+'tikal voic smef cheek ',OFF
+'# jiyoonfact huge beyonc want sing well sang predebut ',NOT
+'# invest # leadership # prepar share # infrastructurereportcard guidanc # maga watch rust away ',NOT
+'# colorado arrest cuf drag school wait # metoo alleg feminist classmat # teen # femin # parent # kid # ccot # maga # homeschool ',NOT
+'# greatestthingsaboutth liber love ',NOT
+'caus everyon know real leader fall sack potato ',OFF
+'# marketingtip # listbuild go show build privat onlin traffic economi never short prospect sale ',NOT
+'# boycottnik campaign must continu grow pay oversea staff hour okay staff exploit poor women world american stand ',OFF
+'# conserv poison everyth touch # tori # conserv # labour # labourparti # libdem # ukip # snp # gop # america # canada # europ # polit # ukpolit # cdnpoli # pnpcbc # auspol # polcan # socialchang # eupol # uspoli ',NOT
+'# preach # badcompani know shoot star know ',NOT
+'somewhat know that best friend stop talk control issu ',NOT
+'let flip gitl allianc tyler think mastermind ultim blindsid three girl final three kayce ',NOT
+'# believ belli insulin resist remedi without medicin fast info ',NOT
+'# nowplay march antifa sickboy shake hand clench fist ',NOT
+'# conserv # dwp secret benefit death review investig death doubl year # crimesofdwp ',NOT
+'# emmyaward liber back push social make million pretend real hard work peopl show ',NOT
+'# duckduckgo googl ',NOT
+'# california push # gun control # law legal brief video ',NOT
+'icymi reason fascist desper tri find anti fascist tennesse want includ leagu south member organ group share wide ',NOT
+'# art # cultur bojack horseman recap apolog tour episod bojack horseman taken social issu last season control episod stand shine exampl show alway abil ',NOT
+'watch # kavanaugh # shenanigan unfold remind simpl truth peopl care inclus care conserv progress peopl color christian women lgbtq none thread ',NOT
+'# charlottesvil speech # trump given # tcot # cvill # conserv # charlottesvillekkk # liberti # gop ',NOT
+'# conserv left # frustrat # congress pass spend bill # tcot ',NOT
+'# news jeff session want death listen aclu antifa black live matter # cnbc ',OFF
+'better ',NOT
+'# happybdaypmmodi hate agre hard work india wit ',NOT
+'# robertpoeti want explan auditor gener # quebec conflict # amf investig perhap read follow trail evid prove conflict # sad # corrupt # nathaliegdrouin # pennystock ',NOT
+'# rimmi antifa call death bourgeoisi good ',NOT
+'# david # miliband # davidmiliband flew away # newyork # liber # democrat flee # corbynist hatr jew ',OFF
+'anyway game suck ',OFF
+'someon silenc pride perhap busi fight self abitalib ',NOT
+'# nintendo # animalcross # smashbrosultim littl late ador love isabel ',NOT
+'# nowplay kierra kiki sheard ',NOT
+'# ibelieveblaseyford liar ugli libreal # snowflak sold cash dem iran spoke # johnkerryiranmeet ',OFF
+'# charitytuesday join disabl women # votetori today ',NOT
+'# maga dem use fals alleg kavanaugh sexual assault bargain chip releas classifi doc presid trump ',NOT
+'watch team insight presid sure ',NOT
+'# nfl long ',NOT
+'# lidc believ julieanna godard leader work mani digit driven industri leader establish network creativ team influenc promot busi mani young entrepreneur well ',NOT
+'# art # kag # maga # patriot alfa warior lion roar # super # hero # trump # vote viktoriu warior defeat enemi # liar # liber # politician # nwo # congress deep uniti gutsi intel ',NOT
+'# conserv repres canadian authoritarian scum # cdnpoli # onpoli ',OFF
+'# ford attorney say receiv death threat move famili safeti proof # democrat # antifa promot circu ',OFF
+'# maga # kag becom supplier soybean strengthen presid trump trade deal ',NOT
+'# scottgimpl ruin # thewalkingdead # feartwd hope check cash forev never anoth # amc ',OFF
+'# pnp result vice presidenti race support damion crawford feel comfot ',NOT
+'# betoorourk continu attack push # guncontrol ',NOT
+'anoth season bradi give nigga ',OFF
+'# wcw goe beauti sexi without lost brought dark light world love much ',NOT
+'# weloveshawnbecaus reason whole # mendesarmi smile everyday see happi make million happier ',NOT
+'give # antifa ask problem ',NOT
+'# chequer chucker remind efta norway rule move ceta canada ',NOT
+'favorit quot internet confid bend math hardcor ',NOT
+'biggest accomplish school ',NOT
+'# lifeisbutepu black word nigga feel nigga ',OFF
+'# emmi host # michaelch say # onlywhitepeopl # thankjesu award show # republican # excrackhead # liber # pope # republican # excrackhead # emmyaward roast mock middl america rate time ',NOT
+'# staffpick human right crisi accus fail protect citizen violenc ',NOT
+'# benjon assist director republican parti conserv futur capit punish # deathpenalti ',NOT
+'# break # christineblasey ford publish eight studi # abort pill work compani produc # corcepttherapeut cort # liber # kavanaugh # cort # roevwad # kavanaughconfirm ',NOT
+'# auster # tuitionfe lack hous wage fall # universalcredit unafford rent # nh crisi crap railway empti shop # brexit deal exit # windrush # grenfel short year complet fuck ',OFF
+'# yehundinonkibaathai special corner peopl defin simplic real beauti long time among mani actress personifi true sens stun natur ',NOT
+'minut instinct love # alancum # instinct # intrigu ',NOT
+'# thosethataretheloudest afraid justic come # bono scam # clintonfound # pedowood # haiti ',OFF
+'look chicago baltimor exampl strict control law effect ',NOT
+'# welovesergiobecaus angel pure sweet love support much love support mention danc king love ',NOT
+'# republican # devinnun say liber antifa caus riot win newsweek ',NOT
+'day radio festiv decid tell headlin come anymor thank paid fortun tonn act shit interest ',OFF
+'# tytliv trump need danger countri world good ',OFF
+'# constitutionaldecay abstract manifest everi debat word written fall short provid use relev framework root issu divers control abort data privaci healthcar instanc ',NOT
+'# davidhogg nobodi ',OFF
+'sweetheart hope get well soon patient strong capullo ',NOT
+'# bbcbia # wato conserv built twice much council hous labour wreck economi almost bankrupt countri ',NOT
+'chicago control effect elimin crime complet ',NOT
+'follow ',NOT
+'# room actual incred nonam shit alway seein day melbourn life good nice ',NOT
+'# cnn irrat argu legalis # abort # ireland base murder infant # liber think # saveth thamend thref # ccot # pjnet # tcot # bluewav # conserv # teaparti # lovethemboth # repealth ',NOT
+'still realli miser unpleas even told happi divorc even born cool cool liter born hatr awesom wonder fuckup ',OFF
+'# rosierul # fanclub rosi never fail matter take club start follow pet talk think pretti cool wait figur mint pocket ',NOT
+'cute cute ',NOT
+'# vaginaldavi radic perform educ artist embrac life margin multipl ident intersex terrorist drag queen black creol mexican german jewish root born angel sometim around ',NOT
+'liter everyth ',NOT
+'call georg ',NOT
+'# myuniqueheritag separ famili tree person made past ',NOT
+'# wednesdaywisdom # lovelibrari # lovetoread share read wednesday ',NOT
+'# desanti deracist choic distanc prez comment today question death puerto rico hurrican maria # whataputz ',OFF
+'# googl awesom ',NOT
+'# kavanaugh # professorchristineford start stori said said becom liber conserv ',NOT
+'# groomhaircut hmmn nutten chang # weather # lastleg # wavecut # youthcut # straightrazor # snip # groom sbarbershop # southorangevillag ',NOT
+'lost acca first fuck fight ',OFF
+'next time control debat debat free speech tax choos irrespons choos argu respons what wrong justifi murder say never aliv right ',OFF
+'hell think ',OFF
+'nasti ',NOT
+'# liberalismisamentaldisord # hypocrit # democratshateamerica # democratsaredanger everyth liber touch turn absolut shit ',OFF
+'# wednesdaywisdom extrem weather road condit make drive danger stress pleas safe effect # hurricaneflorer # safetyfirst ',NOT
+'veer left church ',NOT
+'# hurricanceflor # praywithoutceas ',NOT
+'# antifa gruel train goe much better video game ',NOT
+'best price asmode board game variou ',NOT
+'# nickidagoat ',NOT
+'good get truth ',NOT
+'# nowplay interview moniqu rochon star pulpit secret septemb landi theater vineland listen # theloung ',NOT
+'# nba kfreeagent look member crew good record reason random teammat interest pure slasher pure sharp ',NOT
+'# shugurrgiveaway craig wear swag parti thank shugurr inspir help realiz love best ',NOT
+'# hollywood # liber threaten reagan bush bush trump none made move # emptythreat michael moor say move # canada film lead troubl ',NOT
+'nigga podcast youtub channel dedic shit get solv ',OFF
+'smexi beach long chair asleep cigarett wine hand # openrp ',NOT
+'pander crowd antifa yeah realli texa need offic bless texa # voterednov ',NOT
+'anytim randomli bust laugh rememb dumb shit albria said ',OFF
+'# climatchang tick conserv hard belief system rain toadstool locust problem much actual rain unbeliev good articl full quot word ',NOT
+'jewish peopl claim hold money sound familiar left wing libtard famili famili hate jew funni control even funnier good luck ',OFF
+'# maga read georg conway call donald trump ceaseless shameless witless prevar virtual topic ',NOT
+'',NOT
+'bitch ',OFF
+'# liber alway dirti trick ',OFF
+'# conserv upset # bertenerni # gay # sexualpred hooker # rapist # supremecourtjustic ',OFF
+'# antifa protest # athen year murder pavlo fyssa golden dawn voter complicit crime # killahp ',OFF
+'# be # abus # sit # here # wait # here # mayb # will # chang # your # futur # you # are # not # go # get # ticket # but # were # evalu date write account disabl instagram whole text comment field ',NOT
+'# kavanaugh john fund kavanaugh ford controversi even honest liber upset ',NOT
+'control take gun abid citizen ',NOT
+'# antifa # resist trump tri bring world peac obstruct democrat good hater gon na hate ',NOT
+'advoc model natur beauti ',NOT
+'# maga # kavanaughconfirmationhear postpon vote well let open hush fund book ',NOT
+'# ticktock formal charg mishandl sensit materi choic releas proof guilti high treason unit state sell patent militari secret saudi arabian govern ',NOT
+'# backtheblu jeff session listen aclu antifa black live matter want chicago shoot ',NOT
+'# conserv # garbag bag blow wind garbag ',OFF
+'# tipoftheday give # coffe gift part gift make sure airtight contain valv seal tie cute preserv coffe past week join mail list tip fact coffe news ',NOT
+'# arizona # tennesse # alaska soon rino liber reelect vote # draintheswamp ',NOT
+'# affirmativeact # affirmativeh # altleft want prof fire point poor perform unqualifi admit # tcot # conserv # law # lawyer # lawdean # lawprof # upenn # altleft # higher # aba # highereduc # academictwitt ',NOT
+'# lisaxmichaelkor beautiful ',NOT
+'# break offici music video # gtfo reach million view youtub still itun music video chart keep stream # lamb ',NOT
+'# vijaymallyacas usual good credibl anchor heard interpret malliya statement other said talk settlement said maliya said leav london pleas contact live ',NOT
+'# aurora # kanecti pleas keep look share sweetheart name rosey littl white chihuahua terribl miss call right away ',NOT
+'# bakersfield need control sorri victim gunman hope rot hell ',OFF
+'# believ go teach way creat exclus onlin traffic economi never short suppli qualifi prospect sale ',NOT
+'# trump go visit victim # hurricaneflor # antifa plan ralli meantim parti boat bro # antifascist # maga # kag # wwg # greatawaken # qanon # qarmi # florenceaftermath # florencenc # northcarolina ',NOT
+'# denver venu stack epic show # fall togeth fall music guid help pick show go season check ',NOT
+'# sundayfunday check girl thecanncierg take bomb photo drop hell # cannabi knowledg canncierg stock ',NOT
+'chan hunt antifa ',NOT
+'# honoursacrificeboycottmatch hope human right rat happi hope sidhu happi hope liber happi play cricket thank soldier celebr impot funni piddli littl nation take ride ',OFF
+'# womenwednesday meet multipl award win design demand grad behind recent redesign lacava centr pictur classmat # concordia # cualumni ',NOT
+'# confirmkavanaugh # kavanaugh # scotu # potu # presidenttrump # americafirst # maga # kag anti # trump liber activist # ford make accus will subject question suffer consequ file fals charg # lockherup ',OFF
+'anal stimul ',NOT
+'# resist traitor caught video break law # communist # social way slow # trump agenda chapter democrat socialist america forget antifa distract real resist # maga ',OFF
+'# nuevafotodeperfil awesom ',NOT
+'# serenawilliam make start look ancient histori play # usopen ',NOT
+'# wce love life best thing happen girlfriend best friend know alot heart break babi break heart crop truth ',NOT
+'# celebr bekah martinez pregnant bachelor star expect first child boyfriend grayston bekah martinez whole realiti go bachelor contest ',NOT
+'# greatawaken # qanon # patriotsunit # wwg # areyouawak awak clearli check video ',NOT
+'# florenc look get readi explod notic start reappear ',NOT
+'alex jone smokin dick man realli support ',NOT
+'# bbnaija told child grace meant busi time famz anybodi # teamceec ',NOT
+'# christineblaseyford grind # kavanaugh parti almost got ta love ridicul # metoo movement swear # kavanaugh alreadi # liber anxieti attack ',OFF
+'# choosecruz liber # dontcamytexa ',NOT
+'celin swittin follback erza jullian # openfolbackcelin swittin ',NOT
+'# corybook hero american traitor treat arrest prosecut carri sentenc # kavanaughconfirm ',OFF
+'# conserv thank tori doctrinair polici go back time lose hard benefit prosper forward partner ',NOT
+'round goon bitch kiddin ',OFF
+'# hurricaneflor produc rain pleas safe ',NOT
+'scott gottlieb know opiod definit expert anyth expert read bank statement count money ',NOT
+'angel run five come courtesi mike trout homer trout connect pitch runner second third ',NOT
+'# california lead safeti ',NOT
+'# communistnewsnetwork rent lip never seen protest demand control street chicago # liberalshateamerica ',NOT
+'blow hard go push vote enough name alway tappanze bridg nyr hope investig go open risk live knew readi ',NOT
+'# patriotsunit # patriotseffectingchang # patriot # maga # trump # trumpssuperelit # thestorm # greatawakeningworldwid # qanon # wwg abid citizen right defend fight fire fire antifa articl show read ',NOT
+'# sundayshoutout amaz boundless support endless appreci support return loop love respect ',NOT
+'# moreb # barrysoetorobullshit ',OFF
+'# tytliv latino faith base woman think trump christian poster child immor hate latino ',OFF
+'stuff peopl amaz alreadi control look happen peopl arrest charg weekend chicago given slap wrist # nra ',NOT
+'# conserv alway revolt ',NOT
+'said vast major leftist support control inher left wing polici mani revolutionari socialist anarchist support aggress control believ work class arm self defens ',NOT
+'# democrat # liber accus # brettkavanaugh proof meanwhil support # tedkennedi call lion senat kill woman # wednesdaywisdom # news # trump ',NOT
+'# googl fellow goggler must elect night greatest night life watch lib hillari support especi media still laugh all pain tear brought great # thankyou ',NOT
+'# bestpotusev # lovemypresid # maga # brilliant # win # masternegoti thank ',NOT
+'# carrey # pervert ',OFF
+'# angel lawmak realli care citizen secur border ',NOT
+'american tail realli underr anim fuck cri scene ',NOT
+'nigga stupid trash dont play play bitch ',OFF
+'# nooneaskm opinion # offset keep beef # cardib know cardi slow believ everyth say meal ticket think # offset need ugli ',OFF
+'# icymi liber favorit myth obama professor destroy ',OFF
+'# joyfulglitz # youniqu # bless # momlif ',NOT
+'# haveyoursay live # garston jane want hear view locat commun polic station propos open access commun base south liverpool treatment centr church road think ',NOT
+'# seek lord find call near isaiah # god # wait come kingdom # jesusiscal give # life # repent # forgiv # salvat # satan # europaafricau # pray # trustgod # believ ',NOT
+'# repost repost happi princ harri duke sussex ground compassion take mother ',NOT
+'complet person know happen footbal special thing life want duke footbal player and but ',NOT
+'# spend speed money save atlest earn start today look incom expens find start back save ',NOT
+'# jenel want world know bikini pray ',NOT
+'demonstr wholli incap carri thought logic conclus ',OFF
+'# uglyisthenewpretti tell look ultim power project laugh project other actor play life ride afraid ',NOT
+'# maga care farm reason commit murder stori ',NOT
+'jean wear wrangler found levi contribut heavili control group grab politician back ',NOT
+'# feelsgoodgirl proud amaz gambit ',NOT
+'guess swamp origin ',NOT
+'# maga # qanon # greatawaken # inner # wwg # nowcomesthepain # walkaway # goodbyedemocrat mccabe strzok caught destroy evid final day huber run grand juri ',NOT
+'# conserv # afraid # anitahil # redux know # power matter # truth # republican worri # kavanaugh # hear # backfir # fact almost matter # news # gop # trump # liar # posttruth # soctu ',NOT
+'# brexit deal reach hold onto hat # hardbrexit # brexitd # chequersd # chuckchequ # mbga # mega # mcga # maga # conserv # patriot # mayout # maymustgo ',NOT
+'remind david harcourt classic everyon want fuehrer histori nation social australia zealand avail # antifa # auspol # fcknz ',NOT
+'titti ',NOT
+'manapun plot foto hanya penanda faceclaim ',NOT
+'# texa wake socialist mesmer weak mind state texa cri loud place embodi american spirit individu freedom texa standard bearer make damn stand great senat # savetexa ',NOT
+'# pastram found sooner music still amaz ',NOT
+'# wcw zamalek zamo mapholoba first friend upto today still muntu love pholob year strong ',NOT
+'# proudfatherswithrtg wait hope hppn ',NOT
+'irrelev find weed grade pictur wear hoodi talk thug ',NOT
+'# chequer dead time move # supercanada offer time face fact retir appoint leader probabl ',NOT
+'# auspol flaw though mani way individu labor alway battl achiev nation recent apart control actual done nation make list ',NOT
+'fuck disgust ',OFF
+'# maga break news stole playbook georg costanza seinfeld least know rule believ watch ',NOT
+'# liberalhypocrisi # tacobel liber illeg immigr taco bell employe habla ingl ',OFF
+'year antifa rapper pavlo fyssa surround fascist golden dawn parti keratsini athen stab death five year later forget forgiv ',NOT
+'# collegefootbal gallatin turn averag movement # sec # pac # big # big ',NOT
+'agre common ground bush particularli ',NOT
+'# blackinkcrewchi lili hate hate worst enemi caus anger legit feel she kid work ',OFF
+'# justiceforsoniasfath usman buzdar pleas respond sonia iqbal daughter counsellor okara whose father kill elect nawaz leagu killer say commit suicid front media justic ',OFF
+'listen # aclu # antifa # blacklivesmatt want chicago shoot # session ',NOT
+'ruth porat anoth coincid good peopl peopl shap narr censor search result ',NOT
+'worst potu ',OFF
+'# conserv genet abil understand # hypocrisi # ironi right wing ideolog get twist knot # onpoli # ontario # partyofyesteryear # fraudnat ',OFF
+'angri state check drawer make argument still fault particular instanc # ohreal ',NOT
+'# aldub thweeksari thank keep fight want tomorrow ',NOT
+'# oitnb worst public defend trail uner word ',OFF
+'# trademark attorney daniela paull pari next week attend annual confer touch attend meet ',NOT
+'# timetravelthursday # maxdrivetimetravelthursday # onairwithshin home # maxdriv # radioenchantress ',NOT
+'never regret even hardest time ',NOT
+'# theview # bothamjean believ # amyguyg lie live near polic station hope pray bust hous think kill peopl color polic prey alway polic cross hair matter ',OFF
+'# antifa septemb stop fascist # amsterdam ',OFF
+'# becauseoftori lowest youth unemploy record began ',NOT
+'nyfw caus class getcho wack outta ',OFF
+'# maga # kavanaugh # drainthedeepst interview book laid happen today secret resist societi antifa white hous meet interest hear ',NOT
+'# sandraoh dress queen tonight salut canadian goddess hope # killingev # emmyaward ',NOT
+'consid bigger show ronda later show bigger nane ',NOT
+'# greatestthingsaboutth liber unhing ',OFF
+'# stayonyourpath # healthquot wish loos back wellb slow revers age process check super power natur method ',NOT
+'# somethingisabouttohappen goe bottl floor water drip snap tri cool piss someth sure stay tune ',NOT
+'# fakenew gloss today thank # christineblaseyford circu # confirmjudgekavanaughnow back trigger liber talk success ',NOT
+'# capit undermin displac menial labor conserv inocul knee jerk reaction notion live wage # econom # marxism # marx # robot # commun # social # socialismkil ',NOT
+'# california tri tack # gun # violenc # bullet # control york time # activist ',NOT
+'# eminem gone harder reason rapgod best lyricist game peopl talk smack never ',NOT
+'# conserv pray liber trooli knot watt brot socialist democrat wonder ignor parent serv inda militari learnd serv christ reel eyes conservativ close align ',OFF
+'# deplorabledregofsocieti say biden girlfriend # lol # maga # redtidalwav onward # dreg ',NOT
+'# disarmthem # antifa pleas stupid enough open carri carri conceal anyon stupid enough consid aggress shot carri weapon shoot kill maim ',OFF
+'puerto rico destroy trump visit throw paper roll peopl month later puerto rico still wait help trump say everyth fine visit great success ',OFF
+'# beto rourk talk control houston campaign event ',NOT
+'sick school gave someth chug nasti drink away ',OFF
+'anyon want cost elect referendum ',NOT
+'# conserv go make # trudeau answer truth crimin everywher peopl commit heinou act violenc whether syria brownskin white canadian born tragic around ',NOT
+'read feel hear cardi voic rap ',NOT
+'# conserv # dumberthandogshit central point tweet ',OFF
+'# season # scari subject condemn antifa soro money ',NOT
+'# charlott anywher rainfal # hurricaneflor # florencenc florenc noth mess around power life threaten major hurrican bring ',NOT
+'# rosi make nauseou ',OFF
+'# feminazi liber # metoo count blame liber # bizarro # kag ',OFF
+'# conserv # liber definit liberti differ # conserv freedom mean # freedom # obstruct # imped # prevent # progress # humanright # civilright # societi gener # liber freedom come ',NOT
+'watch ielt amaz ',NOT
+'# brexit deal reach unveil special summit novemb sold better finish ',OFF
+'# blackeyedpea tackl control social justic song love ',NOT
+'# googl appear complet testosteron free work environ # soyboy # fairyland # hurricaneflor ',NOT
+'# wednesdaymotiv # startup # entrepreneur # boss want salut start entrepreneur thing especi one lack true insight task need done ',NOT
+'# crazyredhead # angri # orang # cheeto claim # presid never accept deni live lost puerto rico # monster ',OFF
+'bull crap know care tri attent presidenti senat give nonsens nope ',NOT
+'# congratul erika ikizak marta pass courtesi marta campu servic keep follow prize # staytun # thestateway # gopanth ',NOT
+'# hurricanceflor bless presid donald trump thank servic saint hater go hate keep great work ',NOT
+'# europaleagu song cash remain chip play card liber brexit trump take nice life better everyon ',OFF
+'manag ',NOT
+'help ',NOT
+'hillari clinton talk control sure thread full well reason data driven respons well mayb ',NOT
+'# democrat last ditch effort stop # kavanaughconfirm smear good name # liber tri protect abort # boycott ',NOT
+'phone fuck dumb ',OFF
+'# kendalljenn look amaz care nude everyon like nuditi sexual desir artistri everi woman planet part comfort # yougotthi ',NOT
+'# scorpio sure commit partner keep satisfi ',NOT
+'# wisdom # well teach right build privat onlin traffic economi never short prospect sale ',NOT
+'month stand talk climb ',NOT
+'# creepypornpresid want trend offic ',NOT
+'# howtogetpeopleoutofyourhom tell vampir threaten ass shrug problem ',OFF
+'fact lost popular vote fact gone ignor democrat conclus never spoke america trumpism # maga # livewithit ',NOT
+'mexican support control alreadi place mean peopl touch say noth ',NOT
+'# kavanaugh moment # blaseyford expos fraud expect surfac liber trick poni # liberalismisamentaldisord ',OFF
+'taller ',NOT
+'# hiac match becki charlott kinda sucki take shot back forth stumbl around drunk version final fantasi someth ',NOT
+'bukhari bukhari bcoz iron ladi power ',NOT
+'apar comput want oper moment upload episod individu sorri inconveni ',NOT
+'# christineblaseyford democrat condemn conserv made mind time made mind condemn kavanaugh without question vote kavanaugh hear ',NOT
+'point school shoot extrem controversi bicker control right nike controversi current ',NOT
+'# nunsprotest nobodi support sister mother superior christian commun difficult stand victim whether ordinari victim ',NOT
+'pornhub thought peopl take suggest categori underserv commun ',NOT
+'agre read first paragraph struggl past condescens lawyer educ opinion lawyer differ educ opinion ',NOT
+'# bcog cool confid cocki kick ',OFF
+'# proudfatherswithrtg bafethu love good look kid hope support mom truli inspir best father father becom ',NOT
+'hussain messag muslim entir human realli great messag entir world ',NOT
+'# chequersplan absolut farc brexit conserv idea total discredit time elect # forthemani ',NOT
+'fuck ',OFF
+'# lifeisbutepu friend dont know use pic meme twitter ',NOT
+'# thenunmovi scari thought clearli critic think terrifyingli creepi tie # theconjur seri ',NOT
+'# breakingnew # trump issu statement christin blasey ford visit # bluewav # bluetsunami # maga # democrat # liber # scotu # crypto ',NOT
+'# liberalhypocrisi # crimin # democrat # evid # ellison # liber # hypocrit keith ellison domest violenc say democrat parti believ stori ',OFF
+'# wotd isaiah lord guid continu give water restor strength well water garden flow ',NOT
+'# greatawaken # qanon # resist # impeachtrump # mueller # muellertim liber like retweet post know exculpatori mean testament lack interest detail thank guy ',NOT
+'# trump real good wit # johndowd # not good wit presid afraid help follow remark attorney dowd quit everybodi ',NOT
+'# repost repost # motto wherev aspir break # entertain # industri start # busi need ',NOT
+'# democratpartyofdomesticterrorist # fascist # antifa # feminazi # walkaway ',OFF
+'get turnt holo keef regardless ',NOT
+'talk # vyvx # cloud connect offer secur reliabl connect direct connect ',NOT
+'# auspol know still serious ',OFF
+'# maga tell good thing # trump done # presid dare worst presid histori ',OFF
+'daysofcod react redux montreal ',NOT
+'# chequer violat democraci # standup brexit peopl must respect ',NOT
+'# arsyoungjaeday happi birthday choi youngja vocal contagi laughter beauti never feel whenev snippet video alway brighten last ',NOT
+'ticket # htafc away match # watfordfc sale support prioriti point monday ',NOT
+'privileg player anniv sacrif noth still rich life burnett passeng doom flight told wife other sacrif everyth gave life save other everyth ',NOT
+'# confirmkavanugh stall tactic croni recours delay # voter mad # maga ',OFF
+'beat hell dude alreadi made assumpt antifa even ignor evid make assumpt ',OFF
+'# stopetchecopar fuck florezcan babi etchecopar ',OFF
+'# antifa invad memori recognit kate steinl austin texa tri comfort look struggl return southern district york recus michael cohen raid trump full support move ',NOT
+'law abid citizen second amend need control crimin care gun time figur stop use gun ',NOT
+'# onairnow bellion rsidanc ',NOT
+'# immigr public charg rule year social safeti design support citizen financ foreign live # trump # maga ',NOT
+'# florenc list hurrican florenc feed # trump # maga central close view excess rainfal outlook today monday purpl area highest risk # vawx # ncwx # nrv # rke ',NOT
+'# feckless encourag liber democrat wast time expend energi tri convinc trump voter need major ',NOT
+'# antifa mental unstabl coward pretend relev ',OFF
+'# emmi sanda asia america canadian descript ',NOT
+'# welovesergiobecaus sweetest love much happi ',NOT
+'thursday work nurs home hair around heard alert afterward test went lunch radio strang keep say unusu ',NOT
+'sleepi cuddl # roguebot ',NOT
+'brown look shit school point ',OFF
+'# wcw live coverag youtub video # textureontherunway offici natur hair media compani emmi award winner fierc ',NOT
+'# ctrider hope enjoy friday look enjoy nice weather weekend septemb # readanewbookmonth noth read book patio nice coffe anyon readi anyth interest month ',NOT
+'safe love butch receiv ',NOT
+'antifa rile anti trump ralli play theme song wonder woman movi repeat power ranger ',NOT
+'# brettkavanaugh anyway matter replac justic kennedi bigger conserv fortifi scotu major decad come lib longer hide desir directli attack bill right ',NOT
+'tast ',OFF
+'# team thebeez pleas share noth except owner die # dump shelter grief owner terrifi noisi shelter pleas # nokillsheltern need let find poor # hero anim ',NOT
+'# despicabledem rifl distort push control kavanaugh confirm ',OFF
+'# meetthespeak present event finpact global impact financi technolog senior advisor group sustain financ work green energi climat risk join meet thina # oiw ',NOT
+'peopl unfollow talk merlin sorri still covinski wait psisli sequel announc witti funni tweet tatbilb drain ',OFF
+'# wednesdaywisdom antifa call right fascist realiti left follow scenario third reich indoctrin youth tri control minor total lack understand knowledg histori # walkaway ',NOT
+'# kavanaugh typic # liber # democrat ',NOT
